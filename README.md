@@ -1,6 +1,6 @@
 # War-card game
 ## Features
-This is a simple card game (with some rules changed) made by the power of html, css and vanilla javascript. The deck is gottan API. You can access the deckofcards API at thus link (<a href="https://www.deckofcardsapi.com/" target="_blank">deckofcardsapi</a>)
+This is a simple card game (with some rules changed) made by the power of html, css and vanilla javascript. The deck is gottan API. You can access the deckofcards API at this link <a href="https://www.deckofcardsapi.com/" target="_blank">deckofcardsapi</a>
 
 ## How to play
 - The goal is to have the highest score after all 52 cards.
